@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Conthrax';
+  src: url('/Conthrax-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+#rightcontent::-webkit-scrollbar {
+    display: none;
+}
